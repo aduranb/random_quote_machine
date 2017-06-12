@@ -1,2 +1,2 @@
-# random_quote_machine
-An intermediate FreeCodeCamp project
+# Random quote machine
+Leveraging Javascript and random quotes API to produce a random quote generator to be displayed in browser.

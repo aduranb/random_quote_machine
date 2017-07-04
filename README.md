@@ -3,6 +3,5 @@ Leveraging Javascript and random quotes API to produce a random quote generator 
 
 The sample display will be as follows:
 
-+---------------+---------------+---------------+-------------------------+
 |     word      |  occurrence   |   documents   |       sentences         |
-+---------------+---------------+---------------+-------------------------+
+
